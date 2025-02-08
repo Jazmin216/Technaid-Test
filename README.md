@@ -30,4 +30,4 @@ Ensure your database structure matches the expected format for each column.
 Run Apache and MySQL in XAMPP.
 
 ### Access the system
-Open your browser and go to: [http://localhost/technaid/](http://localhost/technaid/)
+Open your browser and go to: [http://localhost/Technaid-Test/](http://localhost/Technaid-Test/)
