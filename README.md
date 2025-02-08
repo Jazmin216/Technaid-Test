@@ -20,7 +20,7 @@ git clone https://github.com/Jazmin216/Technaid-Test.git
 ### Move the project folder
 Copy the cloned folder into the XAMPP htdocs directory:
 ```
-C:\xampp\htdocs\technaid
+C:\xampp\htdocs\Technaid-Test
 ```
 ### Set up the database
 Import the provided SQL file into MySQL. You can use phpMyAdmin or another MySQL client.
