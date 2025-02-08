@@ -5,7 +5,7 @@ This project is a simple yet powerful web-based patient management system. It al
 - **Easy-to-use interface**: Navigate and manage patient records with ease.  
 - **Filtering & Exporting**: Export complete or filtered patient data as needed.  
 - **Data Visualization**: Generate graphical representations of selected variables.  
-- **Full CRUD functionality**: Add, edit, and delete patient records.  
+- **Full CRUD functionality**: Add, edit, and delete patient records. 
 
 ## Technologies  
 - **Backend**: PHP, MySQL  
@@ -17,13 +17,17 @@ This project is a simple yet powerful web-based patient management system. It al
 ```
 git clone https://github.com/Jazmin216/Technaid-Test.git
 ```
-
+### Move the project folder
+Copy the cloned folder into the XAMPP htdocs directory:
+```
+C:\xampp\htdocs\technaid
+```
 ### Set up the database
-Import the provided SQL file into MySQL. You can user phpmyadmin, for example
+Import the provided SQL file into MySQL. You can use phpMyAdmin or another MySQL client.
 Ensure your database structure matches the expected format for each column.
 
 ### Start local server
-Use XAMPP to run the project
+Run Apache and MySQL in XAMPP.
 
 ### Access the system
 Open your browser and go to: [http://localhost/technaid/](http://localhost/technaid/)
